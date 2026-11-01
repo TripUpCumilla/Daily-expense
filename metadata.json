@@ -1,0 +1,6 @@
+{
+  "name": "My Expense Tracker",
+  "description": "Modern personal expense tracker with real-time balance tracking, multi-category expense logger, monthly reports, interactive calendar, and analytics for Bangladeshi Taka (৳ BDT).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
